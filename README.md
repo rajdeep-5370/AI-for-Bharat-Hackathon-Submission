@@ -1,8 +1,6 @@
 # JanSahayak AI: The Intelligent Scheme Information Hub 🇮🇳
 ### Bridging the gap between Government Policy and Citizen Reality
 
-![Architecture Diagram](Architecture.jpeg)
-
 ## 🚨 The Problem
 While the government releases thousands of beneficial schemes, the intended beneficiaries (Farmers, Students, Rural Citizens) often miss out due to:
 **Information Overload:** Too many irrelevant schemes to sift through.
